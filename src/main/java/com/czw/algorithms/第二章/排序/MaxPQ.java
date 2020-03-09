@@ -8,7 +8,15 @@ import static com.czw.algorithms.util.Common.*;
  * @CreateTime: 2019-09-24 10:20
  * @UpdeteTime: 2019-09-24 10:20
  * @Description:优先队列的意义在于总数据量过大无法排序时，去选择其中的最大（最小）元素
+ *
+ * 定义：当一棵二叉树的每个节点都大于等于它的两个结点时，它被称为堆有序
+ *
+ * 二叉堆是一组能够用堆有序的完全二叉树排序的元素，并在数组中按照层级
+ * 存储(不使用数组第一个位子)
+ *
+ * 一棵大小为N的完全二叉树，当N达到2的幂时，树的高度会加1（层级存储原理）
  */
+
 public class MaxPQ<Key extends Comparable<Key>> {
 	//基于堆的完全二叉树
 	private Key[] pq;

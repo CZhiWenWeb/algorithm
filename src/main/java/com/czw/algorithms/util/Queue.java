@@ -48,7 +48,9 @@ public class Queue<Item> implements Iterable<Item> {
 		}
 	}
 	public int size(){return N;}
-
+	public boolean isEmpty(){
+		return first==null;
+	}
 	public Iterator<Item> iterator() {
 		return new ListIterator<Item>(first);
 	}
