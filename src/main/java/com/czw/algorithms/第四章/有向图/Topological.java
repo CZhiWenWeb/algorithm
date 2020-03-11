@@ -15,13 +15,13 @@ public class Topological {
 	//顶点的拓扑顺序
 	private Iterable<Integer> order;
 
-	public Topological(EdgeWeightedDigraph G){
-		DirectedCycle cyclefinder=new DirectedCycle(G);
-		if (!cyclefinder.hasCycle()){
-			DepthFirstOrder dfs=new DepthFirstOrder(G);
-			order=dfs.reversePost();
-		}
-	}
+	//public Topological(EdgeWeightedDigraph G){
+	//	DirectedCycle cyclefinder=new DirectedCycle(G);
+	//	if (!cyclefinder.hasCycle()){
+	//		DepthFirstOrder dfs=new DepthFirstOrder(G);
+	//		order=dfs.reversePost();
+	//	}
+	//}
 
 	public Iterable<Integer> order(){
 		return order;

@@ -1,6 +1,5 @@
 package com.czw.algorithms.第二章.排序;
 
-import lombok.Data;
 
 import java.io.BufferedReader;
 import java.io.File;
