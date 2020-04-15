@@ -43,7 +43,7 @@ public class Merger {
 		//将a[lo..hi]复制到aux[lo..hi]
 		for (int k = lo; k <= hi; k++)
 			aux[k] = a[k];
-		//归并回归到a[lo..hi]
+		//归并即为对部分有序的数组进行插入排序，将辅助数组元素插入到目标数组
 		for (int k = lo; k <= hi; k++)
 			if (i > mid)
 				a[k] = aux[j++];

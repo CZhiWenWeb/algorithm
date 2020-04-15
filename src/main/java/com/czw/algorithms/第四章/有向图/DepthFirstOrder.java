@@ -1,6 +1,8 @@
 package com.czw.algorithms.第四章.有向图;
 
 import com.czw.algorithms.util.Queue;
+import com.czw.algorithms.第四章.最短路径.DirectedEdge;
+import com.czw.algorithms.第四章.最短路径.EdgeWeightedDigraph;
 
 import java.util.Stack;
 
@@ -20,6 +22,13 @@ public class DepthFirstOrder {
 	//所有顶点的逆后序排列
 	private Stack<Integer> reversePost;
 
+	private int[] preorder;
+
+	private int[] postorder;
+
+	private int preCounter;
+	private int postCounter;
+
 	public DepthFirstOrder(Digraph G){
 		pre=new Queue<>();
 		post=new Queue<>();
@@ -31,12 +40,30 @@ public class DepthFirstOrder {
 		}
 	}
 
+	//public DepthFirstOrder
+
+
 	private void dfs(Digraph G,int v){
 		marked[v]=true;
+		preorder[v]=preCounter++;
 		pre.enqueue(v);
 		for (int w:G.adj(v)){
 			if (!marked[w])
 				dfs(G,w);
+		}
+		post.enqueue(v);
+		reversePost.push(v);
+	}
+
+	private void dfs(EdgeWeightedDigraph G,int v){
+		marked[v]=true;
+		preorder[v]=preCounter++;
+		pre.enqueue(v);
+		for (DirectedEdge e : G.adj(v)) {
+			int w = e.to();
+			if (!marked[w]) {
+				dfs(G, w);
+			}
 		}
 		post.enqueue(v);
 		reversePost.push(v);

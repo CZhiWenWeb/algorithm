@@ -1,8 +1,7 @@
 package com.czw.algorithms.util;
 
 
-import java.util.HashMap;
-import java.util.Map;
+import com.sun.net.httpserver.HttpServer;
 
 /**
  * @Author: czw
@@ -11,81 +10,57 @@ import java.util.Map;
  * @Description:
  */
 public class Test{
-	private int[] arr=new int[2];
 
-	public static void main(String[] args) {
-		int[] a={3,2,4};
-		int target=6;
-		Test t=new Test();
-		t.twoSum(a,target);
-	}
-	public  int[] twoSum(int[] nums, int target) {
-		sort(nums);
-		find(nums,0,nums.length-1,target);
-		return arr;
-	}
-	public void find(int[] nums,int lo,int hi,int target){
-		if(hi<=lo){
-			return;
+	private static int calculateSize(int numElements) {
+		int initialCapacity = 8;
+		// Find the best power of two to hold elements.
+		// Tests "<=" because arrays aren't kept full.
+		if (numElements >= initialCapacity) {
+			initialCapacity = numElements;
+			initialCapacity |= (initialCapacity >>> 1);
+			initialCapacity |= (initialCapacity >>> 2);
+			initialCapacity |= (initialCapacity >>> 4);
+			initialCapacity |= (initialCapacity >>> 8);
+			initialCapacity |= (initialCapacity >>> 16);
+			initialCapacity++;
+
+			if (initialCapacity < 0)   // Too many elements, must back off
+				initialCapacity >>>= 1;// Good luck allocating 2 ^ 30 elements
 		}
-		if(nums[lo]+nums[hi]==target){
-			arr[0]=lo;arr[1]=hi;
-		}else if(nums[lo]+nums[hi]>target){
-			if(hi-lo<=2){
-				find(nums,lo,hi-1,target);
-			}else{
-				find(nums,lo,(lo+hi)/2,target);
-			}
-		}else{
-			if(hi-lo<=2){
-				find(nums,lo+1,hi,target);
-			}else{
-				find(nums,(lo+hi)/2,hi,target);
-			}
-		}
+		return initialCapacity;
 	}
-	public static void sort(int[] a){
-		sort(a,0,a.length-1);
-	}
-	private static void sort(int[] a,int lo,int hi){
-		if(hi<=lo){
-			return;
-		}
-		int j=partition(a,lo,hi);
-		sort(a,lo,j-1);
-		sort(a,j+1,hi);
-	}
-	private static int partition(int[] a,int lo,int hi){
-		int i=lo,j=hi+1;
-		int v=a[lo];
-		while(true){
-			while(less(a[++i],v)){
-				if(i==hi){
-					break;
+
+	public boolean hasGroupsSizeX(int[] deck) {
+		int[] temp = new int[10001];
+		for (int d : deck)
+			temp[d]++;
+
+		int first = 0, last;
+		for (int i = 0; i < temp.length; i++) {
+			if (temp[i] != 0) {
+				first = temp[i];
+				for (int j = i + 1; j < temp.length; j++) {
+					if (first==1||temp[j]==1){
+						return false;
+					}else if (temp[j] != 0) {
+						last=temp[j];
+						int rem=first%last;
+						while (rem != 0) {
+							first=last;
+							last=rem;
+							rem=first%last;
+						}
+						first=last;
+					}
 				}
-			}
-			while(less(v,a[--j])){
-				if(j==lo){
-					break;
-				}
-			}
-			if(i>=j){
 				break;
 			}
 		}
-		exch(a,lo,j);
-		return j;
+		return first!=1;
 	}
-	private static boolean less(int a,int b){
-		if(a<b){
-			return true;
-		}else{
-			return false;
-		}
+
+	public static void main(String[] args) {
+		Test t = new Test();
 	}
-	private static void exch(int[] nums,int i,int j){
-		int t=nums[i];
-		nums[i]=nums[j];
-		nums[j]=t;
-	}
+
 }

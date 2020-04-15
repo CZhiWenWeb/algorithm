@@ -1,6 +1,7 @@
 package com.czw.algorithms.第二章.排序;
 
 import com.czw.algorithms.util.Common;
+import com.czw.algorithms.util.In;
 
 import static com.czw.algorithms.util.Common.exch;
 import static com.czw.algorithms.util.Common.gennerateArray;
@@ -78,7 +79,10 @@ public class MinPQ<Key extends Comparable<Key>> {
 
 	public static void main(String[] args) {
 		MinPQ minPQ = new MinPQ();
-		Integer[] a = gennerateArray(1, 15, 15);
+		int[] ints=new int[]{0,0,1,2,4,2,2,3,1,4};
+		Integer[] a =new Integer[ints.length];
+		for (int i=0;i<ints.length;i++)
+			a[i]=ints[i];
 		for (Integer i : a
 		) {
 			minPQ.insert(i);

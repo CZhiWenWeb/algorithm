@@ -2,8 +2,6 @@ package com.czw.algorithms.第三章.符号表;
 
 import com.czw.algorithms.util.Common;
 import com.czw.algorithms.util.Queue;
-import com.czw.algorithms.第五章.子字符串查找.A;
-import com.czw.algorithms.第五章.子字符串查找.C;
 
 /**
  * @Author: czw

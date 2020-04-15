@@ -1,13 +1,272 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/src/main/java/com/czw/algorithms/第五章/子字符串查找/KMP.java" line="31" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="0cceddf8-2685-4585-a6d5-306964d5c3fa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithms.iml" afterDir="false" />
+    <list default="true" id="ef5240a2-7894-4f1c-8a9c-50edd54f6e3d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/czw/algorithms/concurrent/AccountingSync.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/czw/algorithms/concurrent/BadLockOnInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/czw/algorithms/concurrent/CountDownLatchDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/czw/algorithms/concurrent/CyclicBarrierDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/czw/algorithms/concurrent/DaemoDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/czw/algorithms/concurrent/HashMapMultiThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/czw/algorithms/concurrent/IntLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/czw/algorithms/concurrent/PriorityDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/czw/algorithms/concurrent/ReadWriteLockDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/czw/algorithms/concurrent/SemapDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/czw/algorithms/concurrent/ThreadPoolDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/czw/algorithms/util/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/czw/algorithms/util/Test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/czw/algorithms/util/Twitter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/czw/algorithms/util/VolatileTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/czw/algorithms/第五章/正则表达式/NFA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/czw/algorithms/第四章/最短路径/BellmanFordSP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/czw/algorithms/第四章/最短路径/EdgeWeightedDirectedCycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/czw/algorithms/练习/Temp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/czw/algorithms/concurrent/AccountingSync.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/czw/algorithms/concurrent/BadLockOnInteger.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/czw/algorithms/concurrent/CountDownLatchDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/czw/algorithms/concurrent/CyclicBarrierDemo$BarrierRun.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/czw/algorithms/concurrent/CyclicBarrierDemo$Soldier.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/czw/algorithms/concurrent/CyclicBarrierDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/czw/algorithms/concurrent/DaemoDemo$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/czw/algorithms/concurrent/DaemoDemo$DaemonT.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/czw/algorithms/concurrent/DaemoDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/czw/algorithms/concurrent/HashMapMultiThread$AddThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/czw/algorithms/concurrent/HashMapMultiThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/czw/algorithms/concurrent/IntLock.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/czw/algorithms/concurrent/PriorityDemo$HightPriority.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/czw/algorithms/concurrent/PriorityDemo$LowPriority.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/czw/algorithms/concurrent/PriorityDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/czw/algorithms/concurrent/ReadWriteLockDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/czw/algorithms/concurrent/SemapDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/czw/algorithms/concurrent/ThreadPoolDemo$MyTask.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/czw/algorithms/concurrent/ThreadPoolDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/czw/algorithms/util/Bag$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/czw/algorithms/util/Bag$ListIterator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/czw/algorithms/util/Bag$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/czw/algorithms/util/Bag.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/czw/algorithms/util/In.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/czw/algorithms/util/Test2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/czw/algorithms/util/Test3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/czw/algorithms/util/Twitter$Tweet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/czw/algorithms/util/Twitter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/czw/algorithms/util/VolatileTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/czw/algorithms/第二章/排序/IndexMinPQ$HelpIteator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/czw/algorithms/第二章/排序/IndexMinPQ.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/czw/algorithms/第二章/排序/MinPQ.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/czw/algorithms/第二章/算法改进/Quick3way.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/czw/algorithms/第五章/子字符串查找/Arr$1B.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/czw/algorithms/第五章/子字符串查找/Arr.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/czw/algorithms/第五章/子字符串查找/Ce.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/czw/algorithms/第五章/正则表达式/NFA.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/czw/algorithms/第四章/无向图/BreadthFirstPaths.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/czw/algorithms/第四章/无向图/CC.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/czw/algorithms/第四章/无向图/Cycle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/czw/algorithms/第四章/无向图/DegreesOfSeparation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/czw/algorithms/第四章/无向图/DepthFirstPaths.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/czw/algorithms/第四章/无向图/DepthFirstSearch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/czw/algorithms/第四章/无向图/Graph.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/czw/algorithms/第四章/无向图/SymbolGraph.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/czw/algorithms/第四章/无向图/TwoColor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/czw/algorithms/第四章/最小生成树/Edge.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/czw/algorithms/第四章/最小生成树/EdgeWeightedGraph.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/czw/algorithms/第四章/最小生成树/KruskalMST.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/czw/algorithms/第四章/最小生成树/LazyPriMST.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/czw/algorithms/第四章/最小生成树/PrimMST.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/czw/algorithms/第四章/最小生成树/UF.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/czw/algorithms/第四章/最短路径/BellmanFordSP.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/czw/algorithms/第四章/最短路径/DijkstraSP.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/czw/algorithms/第四章/最短路径/DirectedEdge.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/czw/algorithms/第四章/最短路径/EdgeWeightedDigraph.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/czw/algorithms/第四章/最短路径/EdgeWeightedDirectedCycle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/czw/algorithms/第四章/有向图/DepthFirstDirectedPaths.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/czw/algorithms/第四章/有向图/DepthFirstOrder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/czw/algorithms/第四章/有向图/Digraph.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/czw/algorithms/第四章/有向图/DirectedCycle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/czw/algorithms/第四章/有向图/DirectedDFS.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/czw/algorithms/第四章/有向图/KosarajuSCC.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/czw/algorithms/第四章/有向图/Topological.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/czw/algorithms/第四章/有向图/TransitiveClosure.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/czw/algorithms/练习/T1046.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/czw/algorithms/练习/T547.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/czw/algorithms/练习/T826.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/czw/algorithms/练习/Temp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/czw/algorithms/练习/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__cglib_cglib_3_2_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_6_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_17.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_ant_ant_1_9_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_ant_ant_launcher_1_9_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_6_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/czw/algorithms/util/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/czw/algorithms/util/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/czw/algorithms/第三章/符号表/BST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/czw/algorithms/第三章/符号表/BST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/czw/algorithms/第二章/排序/Merger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/czw/algorithms/第二章/排序/Merger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/czw/algorithms/第二章/排序/MinPQ.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/czw/algorithms/第二章/排序/MinPQ.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/czw/algorithms/第五章/子字符串查找/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/czw/algorithms/第五章/子字符串查找/Arr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/czw/algorithms/第五章/子字符串查找/C.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/czw/algorithms/第五章/子字符串查找/Ce.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/czw/algorithms/第四章/无向图/Cycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/czw/algorithms/第四章/无向图/Cycle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/czw/algorithms/第四章/有向图/DepthFirstOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/czw/algorithms/第四章/有向图/DepthFirstOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/czw/algorithms/第四章/有向图/DirectedCycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/czw/algorithms/第四章/有向图/DirectedCycle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/czw/algorithms/第四章/有向图/Topological.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/czw/algorithms/第四章/有向图/Topological.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/czw/algorithms/练习/T547.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/czw/algorithms/练习/T547.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/czw/algorithms/练习/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/czw/algorithms/练习/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/algorithms.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/META-INF/algorithm.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/czw/algorithms/util/BitManipulation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/czw/algorithms/util/BitManipulation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/czw/algorithms/util/Common.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/czw/algorithms/util/Common.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/czw/algorithms/util/Queue$ListIterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/czw/algorithms/util/Queue$ListIterator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/czw/algorithms/util/Queue$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/czw/algorithms/util/Queue$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/czw/algorithms/util/Queue.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/czw/algorithms/util/Queue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/czw/algorithms/util/SortMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/czw/algorithms/util/SortMethod.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/czw/algorithms/util/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/czw/algorithms/util/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/czw/algorithms/第三章/符号表/BST$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/czw/algorithms/第三章/符号表/BST$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/czw/algorithms/第三章/符号表/BST.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/czw/algorithms/第三章/符号表/BST.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/czw/algorithms/第三章/符号表/LinearProbingHashST.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/czw/algorithms/第三章/符号表/LinearProbingHashST.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/czw/algorithms/第三章/符号表/MathSET.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/czw/algorithms/第三章/符号表/MathSET.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/czw/algorithms/第三章/符号表/RedBlackBST$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/czw/algorithms/第三章/符号表/RedBlackBST$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/czw/algorithms/第三章/符号表/RedBlackBST.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/czw/algorithms/第三章/符号表/RedBlackBST.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/czw/algorithms/第三章/符号表/SeparateChainingHashST.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/czw/algorithms/第三章/符号表/SeparateChainingHashST.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/czw/algorithms/第三章/符号表/SequentialSearchST$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/czw/algorithms/第三章/符号表/SequentialSearchST$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/czw/algorithms/第三章/符号表/SequentialSearchST.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/czw/algorithms/第三章/符号表/SequentialSearchST.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/czw/algorithms/第二章/排序/Insertion.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/czw/algorithms/第二章/排序/Insertion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/czw/algorithms/第二章/排序/MaxPQ.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/czw/algorithms/第二章/排序/MaxPQ.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/czw/algorithms/第二章/排序/MergeBU.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/czw/algorithms/第二章/排序/MergeBU.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/czw/algorithms/第二章/排序/Merger.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/czw/algorithms/第二章/排序/Merger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/czw/algorithms/第二章/排序/Quick.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/czw/algorithms/第二章/排序/Quick.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/czw/algorithms/第二章/排序/Shell.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/czw/algorithms/第二章/排序/Shell.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/czw/algorithms/第二章/排序/StringSelect.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/czw/algorithms/第二章/排序/StringSelect.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/czw/algorithms/第二章/排序/ThirdMaxPQ.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/czw/algorithms/第二章/排序/ThirdMaxPQ.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/czw/algorithms/第二章/排序/TopM.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/czw/algorithms/第二章/排序/TopM.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/czw/algorithms/第五章/单词查找树/TST$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/czw/algorithms/第五章/单词查找树/TST$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/czw/algorithms/第五章/单词查找树/TST$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/czw/algorithms/第五章/单词查找树/TST$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/czw/algorithms/第五章/单词查找树/TST.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/czw/algorithms/第五章/单词查找树/TST.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/czw/algorithms/第五章/单词查找树/TrieST$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/czw/algorithms/第五章/单词查找树/TrieST$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/czw/algorithms/第五章/单词查找树/TrieST$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/czw/algorithms/第五章/单词查找树/TrieST$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/czw/algorithms/第五章/单词查找树/TrieST.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/czw/algorithms/第五章/单词查找树/TrieST.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/czw/algorithms/第五章/子字符串查找/A$1B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/czw/algorithms/第五章/子字符串查找/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/czw/algorithms/第五章/子字符串查找/BoyerMoore.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/czw/algorithms/第五章/子字符串查找/BoyerMoore.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/czw/algorithms/第五章/子字符串查找/C.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/czw/algorithms/第五章/子字符串查找/KMP.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/czw/algorithms/第五章/子字符串查找/KMP.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/czw/algorithms/第五章/子字符串查找/ViolenceSearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/czw/algorithms/第五章/子字符串查找/ViolenceSearch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/czw/algorithms/第五章/字符串排序/LSD.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/czw/algorithms/第五章/字符串排序/LSD.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/czw/algorithms/第五章/字符串排序/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/czw/algorithms/第五章/字符串排序/ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/czw/algorithms/第五章/字符串排序/MSD.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/czw/algorithms/第五章/字符串排序/MSD.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/czw/algorithms/第五章/字符串排序/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/czw/algorithms/第五章/字符串排序/Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/czw/algorithms/第五章/字符串排序/Quick3string.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/czw/algorithms/第五章/字符串排序/Quick3string.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/czw/algorithms/第五章/字符串排序/StringSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/czw/algorithms/第五章/字符串排序/StringSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/czw/algorithms/第五章/字符串排序/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/czw/algorithms/第五章/字符串排序/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/czw/concurrency/AccountingSync.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/czw/concurrency/AccountingSync.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/czw/concurrency/DaemonDemo$DaemonT.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/czw/concurrency/DaemonDemo$DaemonT.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/czw/concurrency/DaemonDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/czw/concurrency/DaemonDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/czw/jvm_test/ClassLoaderTest$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/czw/jvm_test/ClassLoaderTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/czw/jvm_test/DynamicDispatch$Human.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/czw/jvm_test/DynamicDispatch$Man.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/czw/jvm_test/DynamicDispatch$WoMan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/czw/jvm_test/DynamicDispatch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/czw/jvm_test/GC_test/FinalizeEscapeGC.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/czw/jvm_test/GC_test/ReferenceCountingGC.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/czw/jvm_test/JavaMethodAreaOOM$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/czw/jvm_test/JavaMethodAreaOOM$OOMObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/czw/jvm_test/JavaMethodAreaOOM.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/czw/jvm_test/JavaVMStackSOF.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/czw/jvm_test/MethodHandleTest$ClassA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/czw/jvm_test/MethodHandleTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/czw/jvm_test/Overload.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/czw/jvm_test/RuntimeConstantPoolOOM.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/czw/jvm_test/StaticDispatch$Human.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/czw/jvm_test/StaticDispatch$Man.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/czw/jvm_test/StaticDispatch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/czw/jvm_test/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/czw/jvm_test/Test2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/czw/jvm_test/Tst$Father.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/czw/jvm_test/Tst$GrandFather.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/czw/jvm_test/Tst$Son.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/czw/jvm_test/Tst.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/czw/设计模式/GenerateTableInfoTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/czw/设计模式/GenerateTableInfoTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/czw/设计模式/PropertiesTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/czw/设计模式/PropertiesTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/czw/设计模式/单例模式/Singletion.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/czw/设计模式/单例模式/Singletion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/czw/设计模式/命令模式/RemoteControl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/czw/设计模式/命令模式/RemoteControl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/czw/设计模式/命令模式/RemoteControlTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/czw/设计模式/命令模式/RemoteControlTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/czw/设计模式/命令模式/SimpleRemoteControl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/czw/设计模式/命令模式/SimpleRemoteControl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/czw/设计模式/命令模式/command/Command.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/czw/设计模式/命令模式/command/Command.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/czw/设计模式/命令模式/command/GarageDoorOpenCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/czw/设计模式/命令模式/command/GarageDoorOpenCommand.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/czw/设计模式/命令模式/command/LightOnCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/czw/设计模式/命令模式/command/LightOnCommand.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/czw/设计模式/命令模式/model/Garage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/czw/设计模式/命令模式/model/Garage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/czw/设计模式/命令模式/model/Ligth.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/czw/设计模式/命令模式/model/Ligth.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/czw/设计模式/工厂模式/CheesePizza.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/czw/设计模式/工厂模式/CheesePizza.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/czw/设计模式/工厂模式/ClamPizza.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/czw/设计模式/工厂模式/ClamPizza.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/czw/设计模式/工厂模式/Pizza.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/czw/设计模式/工厂模式/Pizza.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/czw/设计模式/工厂模式/PizzaStore.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/czw/设计模式/工厂模式/PizzaStore.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/czw/设计模式/工厂模式/SimplePizzaFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/czw/设计模式/工厂模式/SimplePizzaFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/czw/设计模式/策略模式/Duck.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/czw/设计模式/策略模式/Duck.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/czw/设计模式/策略模式/FlyBehavior.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/czw/设计模式/策略模式/FlyBehavior.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/czw/设计模式/策略模式/FlyWithWings.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/czw/设计模式/策略模式/FlyWithWings.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/czw/设计模式/策略模式/MallardDuck.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/czw/设计模式/策略模式/MallardDuck.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/czw/设计模式/策略模式/Quack.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/czw/设计模式/策略模式/Quack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/czw/设计模式/策略模式/QuackBehavior.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/czw/设计模式/策略模式/QuackBehavior.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/czw/设计模式/装饰着模式/Beverage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/czw/设计模式/装饰着模式/Beverage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/czw/设计模式/装饰着模式/CondimentDecorator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/czw/设计模式/装饰着模式/CondimentDecorator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/czw/设计模式/装饰着模式/Espresso.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/czw/设计模式/装饰着模式/Espresso.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/czw/设计模式/装饰着模式/HouseBlend.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/czw/设计模式/装饰着模式/HouseBlend.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/czw/设计模式/装饰着模式/InputTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/czw/设计模式/装饰着模式/InputTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/czw/设计模式/装饰着模式/LowerCaseInputStream.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/czw/设计模式/装饰着模式/LowerCaseInputStream.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/czw/设计模式/装饰着模式/Mocha.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/czw/设计模式/装饰着模式/Mocha.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/czw/设计模式/装饰着模式/StarbuzzCoffee.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/czw/设计模式/装饰着模式/StarbuzzCoffee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/czw/设计模式/观察者模式/CurrentConditionDisplay.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/czw/设计模式/观察者模式/CurrentConditionDisplay.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/czw/设计模式/观察者模式/DisplayElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/czw/设计模式/观察者模式/DisplayElement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/czw/设计模式/观察者模式/MyObserver.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/czw/设计模式/观察者模式/MyObserver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/czw/设计模式/观察者模式/MySubject.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/czw/设计模式/观察者模式/MySubject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/czw/设计模式/观察者模式/WeatherData.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/czw/设计模式/观察者模式/WeatherData.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/czw/设计模式/观察者模式/WeatherStation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/czw/设计模式/观察者模式/WeatherStation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/czw/设计模式/观察者模式/java_util实现/CurrentCondittionsDisplay.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/czw/设计模式/观察者模式/java_util实现/CurrentCondittionsDisplay.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/czw/设计模式/观察者模式/java_util实现/WeatherData.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/czw/设计模式/观察者模式/java_util实现/WeatherData.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/czw/设计模式/观察者模式/java_util实现/WeatherStation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/czw/设计模式/观察者模式/java_util实现/WeatherStation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jdbc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tablename.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tables/t_effective_time.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tables/t_integral_get_record.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tables/t_integral_use_record.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tables/t_invoice_info.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tables/t_membership_account.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tables/t_membership_card.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tables/t_membership_color.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tables/t_membership_consume.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tables/t_membership_info.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tables/t_membership_integralrule_set.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tables/t_membership_iyong.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tables/t_membership_label.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tables/t_membership_order.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tables/t_membership_privilege.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tables/t_membership_relation_card.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tables/t_membership_relation_label.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tables/t_membership_set.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tables/t_msg_template.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tables/t_order_info.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tables/t_order_pay.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tables/t_pay_set.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tables/t_pay_type.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tables/t_receive_address.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tables/t_receive_set_buy.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tables/t_receive_set_rule.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tables/t_registry_auth_way.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tables/t_snapshots_invoice_info.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tables/t_snapshots_receive_address.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tables/t_storage_value.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tables/t_storage_value_record.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tables/t_third_login.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test.properties" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -20,13 +279,78 @@
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="algorithm" />
+  </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/czw/algorithms/第三章/符号表/BST.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/czw/algorithms/concurrent/IntLock.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40">
-              <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+            <state relative-caret-position="317">
+              <caret line="61" column="31" lean-forward="true" selection-start-line="61" selection-start-column="31" selection-end-line="61" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#388#389#0" expanded="true" />
+                <element signature="e#398#399#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/czw/algorithms/concurrent/SemapDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/czw/algorithms/concurrent/ReadWriteLockDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="482">
+              <caret line="37" column="5" lean-forward="true" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/czw/algorithms/concurrent/CountDownLatchDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="21" column="4" lean-forward="true" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/czw/algorithms/concurrent/CyclicBarrierDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="328">
+              <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/czw/algorithms/concurrent/ThreadPoolDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="11" column="29" lean-forward="true" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -35,10 +359,23 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/czw/algorithms/第三章/符号表/LinearProbingHashST.java">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="640">
-              <caret line="39" column="24" lean-forward="true" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="24" />
+            <state relative-caret-position="220">
+              <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/concurrent/ArrayBlockingQueue.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="81" column="59" lean-forward="true" selection-start-line="81" selection-start-column="59" selection-end-line="82" selection-end-column="59" />
+              <folding>
+                <element signature="e#6812#6813#0" expanded="true" />
+                <element signature="e#6849#6850#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -48,47 +385,62 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>`</find>
-      <find>getMetaData</find>
-      <find>getPrimaryKeys(</find>
+      <find>batchRemove</find>
+      <find>readUTF()</find>
+      <find>readUTF(</find>
+      <find>initIDs(</find>
+      <find>reflectionFactory</find>
+      <find>set</find>
+      <find>writeTo</find>
+      <find>fl</find>
+      <find>flush</find>
+      <find>replaceAll</find>
+      <find>Entry</find>
+      <find>putA</find>
+      <find>incrementAndG</find>
+      <find>compare</find>
+      <find>synchronized</find>
+      <find>sy</find>
+      <find>hash(</find>
+      <find>interrupt</find>
+      <find>put(</find>
+      <find>enqueue(</find>
+      <find>take(</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HierarchyBrowserManager">
+    <option name="SCOPE" value="All" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/czw/algorithms/第五章/子字符串查找/ViolenceSearch.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/czw/algorithms/第五章/子字符串查找/BoyerMoore.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/czw/algorithms/第五章/子字符串查找/B.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/czw/algorithms/第五章/子字符串查找/KMP.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/czw/algorithms/第三章/符号表/BST.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/czw/algorithms/第五章/子字符串查找/A.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/czw/algorithms/第五章/子字符串查找/D.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/czw/设计模式/命令模式/Command.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/czw/设计模式/命令模式/LightOnCommand.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/czw/设计模式/命令模式/SimpleRemoteControl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/czw/设计模式/命令模式/model/Ligth.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/czw/设计模式/命令模式/command/Command.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/czw/设计模式/命令模式/command/LightOnCommand.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/czw/设计模式/命令模式/model/Garage.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/czw/设计模式/命令模式/command/GarageDoorOpenCommand.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/czw/设计模式/命令模式/RemoteControlTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/czw/设计模式/命令模式/RemoteControl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/czw/设计模式/命令模式/record.txt" />
-        <option value="$PROJECT_DIR$/src/main/java/com/czw/设计模式/test.properties" />
-        <option value="$PROJECT_DIR$/src/main/java/com/czw/Resources/jdbc.properties" />
-        <option value="$PROJECT_DIR$/src/main/java/com/czw/设计模式/PropertiesTest.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/czw/设计模式/GenerateTableInfoTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/czw/algorithms/util/text,txt" />
+        <option value="$PROJECT_DIR$/src/main/java/com/czw/algorithms/util/Twitter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/czw/algorithms/util/VolatileTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/czw/algorithms/util/Test3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/czw/algorithms/util/UnsafeArrayList.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/czw/algorithms/concurrent/DaemoDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/czw/algorithms/concurrent/AccountingSyncBad.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/czw/algorithms/concurrent/AccountingSync.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/czw/algorithms/concurrent/PriorityDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/czw/algorithms/util/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/czw/algorithms/concurrent/HashMapMultiThread.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/czw/algorithms/concurrent/BadLockOnInteger.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/czw/algorithms/concurrent/IntLock.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/czw/algorithms/concurrent/SemapDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/czw/algorithms/concurrent/ReadWriteLockDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/czw/algorithms/concurrent/CountDownLatchDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/czw/algorithms/concurrent/CyclicBarrierDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/czw/algorithms/concurrent/ThreadPoolDemo.java" />
       </list>
     </option>
   </component>
@@ -99,57 +451,186 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="421" />
-    <option name="y" value="111" />
-    <option name="width" value="1203" />
-    <option name="height" value="791" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="938" />
+    <option name="y" value="18" />
+    <option name="width" value="980" />
+    <option name="height" value="1035" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
-      <pane id="Scope">
-        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+      <pane id="ProjectPane">
+        <subPane>
           <expand>
             <path>
-              <item name="algorithm" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="F:\myrepository\algorithm" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="algorithm" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="F:\myrepository\algorithm" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="algorithm" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="F:\myrepository\algorithm" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="algorithm" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="F:\myrepository\algorithm" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="algorithm" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="F:\myrepository\algorithm" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="czw" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="czw" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="czw" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="concurrent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="sun" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="sun" type="462c0819:PsiDirectoryNode" />
+              <item name="net" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="sun" type="462c0819:PsiDirectoryNode" />
+              <item name="net" type="462c0819:PsiDirectoryNode" />
+              <item name="httpserver" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lang" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lang" type="462c0819:PsiDirectoryNode" />
+              <item name="ref" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+              <item name="concurrent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+              <item name="concurrent" type="462c0819:PsiDirectoryNode" />
+              <item name="locks" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -158,18 +639,10 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\myrepository\algorithms\src\main\java\com\czw\Resources" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="F:\myrepository\algorithms\src\main\java\com\czw\Resources" />
-    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -183,13 +656,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.GenerateTableInfoTest">
-    <configuration name="GenerateTableInfoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.czw.设计模式.GenerateTableInfoTest" />
-      <module name="algorithms" />
+  <component name="RunManager" selected="Application.ThreadPoolDemo">
+    <configuration name="CountDownLatchDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.czw.algorithms.concurrent.CountDownLatchDemo" />
+      <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.czw.设计模式.*" />
+          <option name="PATTERN" value="com.czw.algorithms.concurrent.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -197,12 +670,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KMP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.czw.algorithms.第五章.子字符串查找.KMP" />
-      <module name="algorithms" />
+    <configuration name="CyclicBarrierDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.czw.algorithms.concurrent.CyclicBarrierDemo" />
+      <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.czw.algorithms.第五章.子字符串查找.*" />
+          <option name="PATTERN" value="com.czw.algorithms.concurrent.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -210,12 +683,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PropertiesTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.czw.设计模式.PropertiesTest" />
-      <module name="algorithms" />
+    <configuration name="ReadWriteLockDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.czw.algorithms.concurrent.ReadWriteLockDemo" />
+      <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.czw.设计模式.*" />
+          <option name="PATTERN" value="com.czw.algorithms.concurrent.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -223,12 +696,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoteControlTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.czw.设计模式.命令模式.RemoteControlTest" />
-      <module name="algorithms" />
+    <configuration name="SemapDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.czw.algorithms.concurrent.SemapDemo" />
+      <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.czw.设计模式.命令模式.command.*" />
+          <option name="PATTERN" value="com.czw.algorithms.concurrent.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -236,12 +709,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ViolenceSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.czw.algorithms.第五章.子字符串查找.ViolenceSearch" />
-      <module name="algorithms" />
+    <configuration name="ThreadPoolDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.czw.algorithms.concurrent.ThreadPoolDemo" />
+      <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.czw.algorithms.第五章.子字符串查找.*" />
+          <option name="PATTERN" value="com.czw.algorithms.concurrent.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -251,69 +724,61 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.GenerateTableInfoTest" />
-        <item itemvalue="Application.PropertiesTest" />
-        <item itemvalue="Application.RemoteControlTest" />
-        <item itemvalue="Application.KMP" />
-        <item itemvalue="Application.ViolenceSearch" />
+        <item itemvalue="Application.ThreadPoolDemo" />
+        <item itemvalue="Application.CyclicBarrierDemo" />
+        <item itemvalue="Application.CountDownLatchDemo" />
+        <item itemvalue="Application.ReadWriteLockDemo" />
+        <item itemvalue="Application.SemapDemo" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_INTERFACES,SHOW_FIELDS,SHOW_NON_PUBLIC" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="0cceddf8-2685-4585-a6d5-306964d5c3fa" name="Default Changelist" comment="" />
-      <created>1578715366241</created>
+      <changelist id="ef5240a2-7894-4f1c-8a9c-50edd54f6e3d" name="Default Changelist" comment="" />
+      <created>1585896069452</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1578715366241</updated>
-      <workItem from="1578715371608" duration="26064000" />
-      <workItem from="1579052721413" duration="322000" />
-      <workItem from="1579135503098" duration="17451000" />
-      <workItem from="1579221092413" duration="14334000" />
-      <workItem from="1579313121286" duration="114000" />
+      <updated>1585896069452</updated>
+      <workItem from="1585896074484" duration="85579000" />
+      <workItem from="1586763590557" duration="34945000" />
     </task>
-    <task id="LOCAL-00001" summary="11">
-      <created>1579311086552</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1579311086552</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58312000" />
+    <option name="totallyTimeSpent" value="120524000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="938" y="18" width="980" height="1035" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15991472" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.62419355" visible="true" weight="0.2902174" />
+      <window_info id="Structure" order="1" sideWeight="0.37580645" side_tool="true" weight="0.2902174" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Favorites" order="6" sideWeight="0.37370244" side_tool="true" weight="0.19186047" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.30769232" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.33152762" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.15047394" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.31263858" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.34700665" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32936078" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32894737" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.39583334" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.329849" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.11295681" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
@@ -325,402 +790,555 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="Vcs.Log.History.Properties">
-    <option name="COLUMN_ORDER">
-      <list>
-        <option value="0" />
-        <option value="2" />
-        <option value="3" />
-        <option value="1" />
-      </list>
-    </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="11" />
-    <option name="LAST_COMMIT_MESSAGE" value="11" />
-  </component>
   <component name="debuggerHistoryManager">
+    <expressions id="breakpointCondition">
+      <expression>
+        <expression-string>!Thread.currentThread().getName().equals(&quot;main&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>hash==1</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>!Thread.currentThread().getName().equals(&quot;main&quot;)&amp;&amp;hash==1</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>i==4</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>!Thread.currentThread().getName().equals(&quot;main&quot;)&amp;&amp;AccountingSync.i==4</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>AccountingSync.i=4</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>i=4</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>i=3</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>!Thread.currentThread().getName().equals(&quot;main&quot;)&amp;&amp;size==9</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
     <expressions id="evaluateExpression">
       <expression>
-        <expression-string>columnName</expression-string>
+        <expression-string>key.hashCode()</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>e</expression-string>
+        <expression-string>h = key.hashCode()</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>GenerateTableInfoTest.class.getClassLoader().getResource(&quot;&quot;).getPath()</expression-string>
+        <expression-string>(key.hashCode()) ^ (key.hashCode() &gt;&gt;&gt; 16)</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>GenerateTableInfoTest.class.getClassLoader().getResource(&quot;&quot;)</expression-string>
+        <expression-string>(key == null) ? 0 : (h = key.hashCode()) ^ (h &gt;&gt;&gt; 16)</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>PropertiesTest.class.getResource(&quot;&quot;)</expression-string>
+        <expression-string>1^(1&gt;&gt;&gt;16)</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>PropertiesTest.class.getPackage()</expression-string>
+        <expression-string>s.substring(s.length()-4)</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>PropertiesTest.class.getClass().getName()</expression-string>
+        <expression-string>1&lt;&lt;30</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>PropertiesTest.class.getClass()</expression-string>
+        <expression-string>1&lt;&lt;31</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>file.</expression-string>
+        <expression-string>bs.getClass().getDeclaredField(&quot;ssss&quot;)</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/czw/设计模式/命令模式/command/GarageDoorOpenCommand.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/io/FileReader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        <state relative-caret-position="240">
+          <caret line="44" column="51" lean-forward="true" selection-start-line="44" selection-start-column="51" selection-end-line="44" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/io/FilterReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-25">
+          <caret line="53" column="39" lean-forward="true" selection-start-line="53" selection-start-column="39" selection-end-line="53" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/io/CharArrayReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="76" column="7" lean-forward="true" selection-start-line="76" selection-start-column="7" selection-end-line="76" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/io/BufferedReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="215" column="27" lean-forward="true" selection-start-line="215" selection-start-column="27" selection-end-line="215" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/function/BiFunction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="498">
+          <caret line="67" column="49" selection-start-line="67" selection-start-column="49" selection-end-line="67" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/function/Function.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="40" column="17" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/function/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="41" column="30" selection-start-line="41" selection-start-column="30" selection-end-line="41" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/function/Supplier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="33" column="45" selection-start-line="33" selection-start-column="45" selection-end-line="33" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/AbstractMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="72" column="29" lean-forward="true" selection-start-line="72" selection-start-column="29" selection-end-line="72" selection-end-column="29" />
           <folding>
-            <element signature="e#298#299#0" expanded="true" />
-            <element signature="e#323#324#0" expanded="true" />
-            <element signature="e#359#360#0" expanded="true" />
-            <element signature="e#371#372#0" expanded="true" />
+            <element signature="e#2279#2280#0" expanded="true" />
+            <element signature="e#2319#2320#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/czw/设计模式/命令模式/RemoteControlTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/czw/设计模式/命令模式/record.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/czw/设计模式/命令模式/RemoteControl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="369">
-          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
-          <folding>
-            <element signature="e#519#520#0" expanded="true" />
-            <element signature="e#541#542#0" expanded="true" />
-            <element signature="e#595#596#0" expanded="true" />
-            <element signature="e#612#613#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/target/classes/com/czw/设计模式/命令模式/command/LightOnCommand.class">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/target/classes/com/czw/设计模式/命令模式/command/GarageDoorOpenCommand.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
-          <folding>
-            <element signature="e#0#429#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/target/classes/com/czw/设计模式/命令模式/command/Command.class">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/target/classes/com/czw/设计模式/命令模式/SimpleRemoteControl.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="7" column="29" lean-forward="true" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/target/classes/com/czw/设计模式/命令模式/RemoteControlTest.class">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/target/classes/com/czw/设计模式/命令模式/RemoteControl.class">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/io/FileInputStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="123" column="54" lean-forward="true" selection-start-line="123" selection-start-column="54" selection-end-line="123" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/Class.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="260" column="52" lean-forward="true" selection-start-line="260" selection-start-column="52" selection-end-line="260" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/sql/DriverManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1464">
-          <caret line="204" column="42" selection-start-line="204" selection-start-column="42" selection-end-line="204" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/AbstractStringBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="257">
-          <caret line="124" column="38" selection-start-line="124" selection-start-column="38" selection-end-line="124" selection-end-column="38" />
         </state>
       </provider>
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Objects.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2688">
-          <caret line="127" column="27" lean-forward="true" selection-start-line="127" selection-start-column="27" selection-end-line="127" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/io/File.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="1006" column="34" lean-forward="true" selection-start-line="1006" selection-start-column="34" selection-end-line="1006" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/target/classes/tables/t_order_info.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/target/classes/tables/t_receive_set_buy.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/target/classes/tables/t_receive_address.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/target/classes/tables/t_order_pay.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/target/classes/test.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/target/classes/jdbc.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/target/classes/tablename.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="20" column="20" lean-forward="true" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/target/classes/tables/t_membership_consume.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="4" column="43" lean-forward="true" selection-start-line="4" selection-start-column="43" selection-end-line="4" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/target/classes/tables/t_invoice_info.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/target/classes/tables/t_membership_card.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/io/FileWriter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1304">
-          <caret line="89" column="41" selection-start-line="89" selection-start-column="41" selection-end-line="89" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/sql/ResultSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="496">
-          <caret line="524" column="11" selection-start-line="524" selection-start-column="11" selection-end-line="524" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/java.sql.DatabaseMetaData">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>java.sql.DatabaseMetaData</OriginalElement>
-          <nodes>
-            <node x="" y="">java.sql.Wrapper</node>
-            <node x="" y="">java.sql.DatabaseMetaData</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="87.0" y="55.0" />
-          <SelectedNodes />
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/maven/repository/mysql/mysql-connector-java/8.0.17/mysql-connector-java-8.0.17.jar!/com/mysql/cj/jdbc/DatabaseMetaData.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/sql/DatabaseMetaData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="71" column="22" selection-start-line="71" selection-start-column="22" selection-end-line="71" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/sql/Connection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="356">
-          <caret line="318" column="7" selection-start-line="318" selection-start-column="7" selection-end-line="318" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/maven/repository/mysql/mysql-connector-java/8.0.17/mysql-connector-java-8.0.17-sources.jar!/com/mysql/cj/jdbc/DatabaseMetaData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="2920" column="13" selection-start-line="2920" selection-start-column="13" selection-end-line="2920" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="26" column="21" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/target/classes/tables/t_membership_label.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/target/classes/tables/t_snapshots_receive_address.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/io/Writer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="180" column="29" lean-forward="true" selection-start-line="180" selection-start-column="29" selection-end-line="180" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/target/classes/tables/t_integral_get_record.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/target/classes/tables/t_effective_time.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/target/classes/tables/t_integral_use_record.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/target/classes/tables/t_membership_account.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/czw/设计模式/PropertiesTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="317">
-          <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
+        <state relative-caret-position="204">
+          <caret line="57" column="26" selection-start-line="57" selection-start-column="26" selection-end-line="57" selection-end-column="26" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#1410#1411#0" expanded="true" />
+            <element signature="e#1471#1472#0" expanded="true" />
+            <element signature="e#2786#2787#0" expanded="true" />
+            <element signature="e#2837#2838#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/czw/设计模式/设计原则.txt">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/io/InputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="161" selection-start-line="161" selection-end-line="161" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/io/BufferedInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="276" selection-start-line="276" selection-end-line="276" />
+          <folding>
+            <element signature="e#5951#5952#0" expanded="true" />
+            <element signature="e#5996#5997#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/PriorityQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10816">
+          <caret line="673" column="9" lean-forward="true" selection-start-line="673" selection-start-column="9" selection-end-line="673" selection-end-column="9" />
+          <folding>
+            <element signature="e#5287#5288#0" expanded="true" />
+            <element signature="e#5345#5346#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/czw/algorithms/util/Twitter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="21" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/czw/设计模式/GenerateTableInfoTest.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/concurrent/ConcurrentHashMap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="12" column="36" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
+        <state relative-caret-position="3980">
+          <caret line="267" column="21" selection-start-line="267" selection-start-column="21" selection-end-line="267" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/concurrent/ConcurrentMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="56" column="2" selection-start-line="56" selection-start-column="2" selection-end-line="56" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/czw/algorithms/util/VolatileTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1335#1364#0" />
-            <element signature="e#2713#2714#0" expanded="true" />
-            <element signature="e#2721#2722#0" expanded="true" />
+            <element signature="e#316#317#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/czw/Resources/tablename.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/czw/Resources/test.properties">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/jre/lib/rt.jar!/sun/misc/Unsafe.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="266">
+          <caret line="340" column="21" selection-start-line="340" selection-start-column="21" selection-end-line="340" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/czw/Resources/jdbc.properties">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/function/IntUnaryOperator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="122">
+          <caret line="60" column="6" lean-forward="true" selection-start-line="60" selection-start-column="6" selection-end-line="60" selection-end-column="6" />
+          <folding>
+            <element signature="e#2603#2604#0" expanded="true" />
+            <element signature="e#2632#2633#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/czw/algorithms/第五章/单词查找树/TrieST.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/czw/algorithms/util/Test3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/czw/algorithms/第三章/符号表/BST.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        <state relative-caret-position="307">
+          <caret line="19" column="3" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/czw/algorithms/第三章/符号表/LinearProbingHashST.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/concurrent/atomic/AtomicInteger.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="640">
-          <caret line="39" column="24" lean-forward="true" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="24" />
+        <state relative-caret-position="352">
+          <caret line="234" column="17" selection-start-line="234" selection-start-column="17" selection-end-line="234" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1762#1763#0" expanded="true" />
+            <element signature="e#1798#1799#0" expanded="true" />
+            <element signature="e#2395#2396#0" expanded="true" />
+            <element signature="e#2460#2461#0" expanded="true" />
+            <element signature="e#2671#2672#0" expanded="true" />
+            <element signature="e#2742#2743#0" expanded="true" />
+            <element signature="e#4021#4022#0" expanded="true" />
+            <element signature="e#4085#4086#0" expanded="true" />
+            <element signature="e#4725#4726#0" expanded="true" />
+            <element signature="e#4793#4794#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Hashtable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="333" column="23" selection-start-line="333" selection-start-column="11" selection-end-line="333" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="1958" selection-start-line="1958" selection-end-line="1958" />
+          <folding>
+            <element signature="e#76090#76091#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/ClassLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="1040" column="34" selection-start-line="1040" selection-start-column="34" selection-end-line="1040" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/czw/algorithms/util/UnsafeArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="30" column="26" selection-start-line="30" selection-start-column="26" selection-end-line="30" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="460" column="29" selection-start-line="460" selection-start-column="29" selection-end-line="460" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/czw/algorithms/concurrent/AccountingSync.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="29" column="19" lean-forward="true" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/czw/algorithms/concurrent/DaemoDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="23" column="29" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Vector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1">
+          <caret line="304" column="33" lean-forward="true" selection-start-line="304" selection-start-column="33" selection-end-line="304" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/czw/algorithms/concurrent/PriorityDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="35" column="30" lean-forward="true" selection-start-line="35" selection-start-column="30" selection-end-line="35" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/jre/lib/rt.jar!/com/sun/net/httpserver/HttpServer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/czw/algorithms/util/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="16" column="54" lean-forward="true" selection-start-line="16" selection-start-column="54" selection-end-line="16" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="239" column="6" selection-start-line="239" selection-start-column="6" selection-end-line="239" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="99" column="22" selection-start-line="99" selection-start-column="22" selection-end-line="99" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="769" column="43" lean-forward="true" selection-start-line="769" selection-start-column="43" selection-end-line="769" selection-end-column="43" />
+          <folding>
+            <element signature="e#19103#19104#0" expanded="true" />
+            <element signature="e#19161#19162#0" expanded="true" />
+            <element signature="e#19327#19328#0" expanded="true" />
+            <element signature="e#19410#19411#0" expanded="true" />
+            <element signature="e#23630#23631#0" expanded="true" />
+            <element signature="e#23684#23685#0" expanded="true" />
+            <element signature="e#24331#24332#0" expanded="true" />
+            <element signature="e#24396#24397#0" expanded="true" />
+            <element signature="e#31056#31057#0" expanded="true" />
+            <element signature="e#31094#31095#0" expanded="true" />
+            <element signature="e#36187#36188#0" expanded="true" />
+            <element signature="e#36271#36272#0" expanded="true" />
+            <element signature="e#36323#36324#0" expanded="true" />
+            <element signature="e#36401#36402#0" expanded="true" />
+            <element signature="e#38396#38397#0" expanded="true" />
+            <element signature="e#38476#38477#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/czw/algorithms/concurrent/HashMapMultiThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="21" column="53" lean-forward="true" selection-start-line="21" selection-start-column="53" selection-end-line="21" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#374#375#0" expanded="true" />
+            <element signature="e#386#387#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/czw/algorithms/concurrent/BadLockOnInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="e#211#212#0" expanded="true" />
+            <element signature="e#220#221#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/concurrent/locks/ReentrantLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="333" column="19" selection-start-line="333" selection-start-column="19" selection-end-line="333" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/concurrent/locks/Condition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="230" column="9" selection-start-line="230" selection-start-column="9" selection-end-line="230" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/AbstractQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2132">
+          <caret line="63" column="38" lean-forward="true" selection-start-line="63" selection-start-column="38" selection-end-line="63" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/concurrent/BlockingQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3492">
+          <caret line="179" column="52" lean-forward="true" selection-start-line="179" selection-start-column="52" selection-end-line="179" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/concurrent/ArrayBlockingQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="81" column="59" lean-forward="true" selection-start-line="81" selection-start-column="59" selection-end-line="82" selection-end-column="59" />
+          <folding>
+            <element signature="e#6812#6813#0" expanded="true" />
+            <element signature="e#6849#6850#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/czw/algorithms/concurrent/IntLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="61" column="31" lean-forward="true" selection-start-line="61" selection-start-column="31" selection-end-line="61" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#388#389#0" expanded="true" />
+            <element signature="e#398#399#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/ref/ReferenceQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="27" column="30" lean-forward="true" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/czw/algorithms/concurrent/SemapDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/czw/algorithms/concurrent/ReadWriteLockDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="482">
+          <caret line="37" column="5" lean-forward="true" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/concurrent/CountDownLatch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="155" column="13" selection-start-line="155" selection-start-column="13" selection-end-line="155" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/czw/algorithms/concurrent/CountDownLatchDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="21" column="4" lean-forward="true" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/czw/algorithms/concurrent/CyclicBarrierDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/czw/algorithms/concurrent/ThreadPoolDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="29" lean-forward="true" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
         </state>
       </provider>
     </entry>
@@ -741,7 +1359,6 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>No facets are configured</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -764,7 +1381,6 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>1.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -776,11 +1392,12 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>algorithms</last-edited>
+          <last-edited>algorithm</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
